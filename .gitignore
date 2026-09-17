@@ -1,0 +1,15 @@
+# Compiled executables
+*.exe
+*.out
+
+# Build/output directories
+output/
+
+# IDE settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
